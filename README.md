@@ -12,3 +12,8 @@ I implemented SLAM (Simultaneous Localization and Mapping) for a 2 dimensional w
 * Notebook 2 : Omega and Xi constraints
 * Notebook 3 : landmark detection and tracking
 * robot_class.py: robot object
+
+
+# WARNING !!!
+## This Algorithm assumes that the object is in 2-D world 
+### Just an initial step towards real world SLAMs
