@@ -14,6 +14,8 @@ I implemented SLAM (Simultaneous Localization and Mapping) for a 2 dimensional w
 * robot_class.py: robot object
 
 
+
+..................................
 # WARNING !!!
 ## This Algorithm assumes that the object is in 2-D world 
 ### Just an initial step towards real world SLAMs
